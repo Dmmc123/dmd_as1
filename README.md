@@ -1,6 +1,6 @@
 # F[19] Data Modeling and Databases: Migrating DB to mongo and querying
 ## Importing data to MongoDB
-To import data run ```Import.py```
+To import data run ```Import.py``` and verify credentials in ```Login_data.txt```
 ```
 $ python3 Import.py
 ```
