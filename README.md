@@ -10,4 +10,4 @@ To run some sample queries on imported data just execute:
 ```
 $ python3 N_th_query.py
 ```
-*> Some say the report containes the results...*
+> *Some say the report containes the results...*
